@@ -3,7 +3,7 @@ import hand_icon from '../../assets/hand_icon.png'
 import arrow_icon from '../../assets/arrow_icon.png'
 // import men from '../../assets/men.webp'
 import men from '../../assets/p8.webp'
-import './hero.css'
+import './Hero.css'
 
 
 const Hero = () => {
