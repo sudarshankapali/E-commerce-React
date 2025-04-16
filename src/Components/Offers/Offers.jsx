@@ -1,5 +1,5 @@
 import React from 'react'
-import "./offer.CSS"
+import "./Offer.css"
 import exclusive_image from "../../assets/exclu.webp"
 const Offers = () => {
   return (
